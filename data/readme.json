@@ -2,20 +2,17 @@
   "id": 42,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Moodle Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/moodle-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/moodle-downloader",
   "purchase_url": "https://serp.ly/moodle-downloader",
   "store_product_id": null,
   "name": "Moodle Downloader",
-  "tagline": "https://serp.ly/moodle-downloader",
-  "featured_image": "images/moodle-downloader.jpg",
-  "featured_image_gif": "images/moodle-downloader.gif",
+  "tagline": "Backup complete Moodle courses with all resources and activities",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/moodle-downloader/assets/images/moodle-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/moodle-downloader/assets/images/moodle-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/moodle-downloader",
   "github_repo_tags": [
-    "moodle-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "moodle-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/moodle-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/moodle-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/moodle-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "course marketplace"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/moodle-downloader",
     "https://devinschumacher.com/moodle-downloader",
-    "https://serp.co/products/moodle-downloader/reviews/"
+    "https://serp.co/products/moodle-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "moodle",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "moodle downloader"
   ]
 }
